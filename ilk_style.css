@@ -1,0 +1,46 @@
+body{
+    background-color: #7AC6D2;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.header{
+    font-family: "Fascinate", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  background-color: #3A59D1;
+  border-radius: 5px;
+}
+
+.ozan{
+    width: 225px;
+    height: 325px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 15px;
+}
+
+#esenyurt_rangers{
+    clear: both;
+    text-align: center;
+
+}
+
+.middle{
+    margin-top: 30px;
+}
+
+.berre{
+    width: 225px;
+    height: 325px;
+    float: right;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 15px;
+}
+
+.gs{
+    color: red;
+}
